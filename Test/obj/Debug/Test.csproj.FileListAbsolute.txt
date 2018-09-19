@@ -1,0 +1,59 @@
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\bin\Debug\Test.exe.config
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\bin\Debug\PAYEManagement.dll
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\bin\Debug\PAYEManagement.pdb
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\obj\Debug\Test.EmployeeForm.resources
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\obj\Debug\Test.PAYEForm.resources
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\obj\Debug\Test.TestMainForm.resources
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\obj\Debug\Test.exe
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\Test\obj\Debug\Test.pdb
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\bin\Debug\Test.exe.config
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\bin\Debug\Test.exe
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\bin\Debug\Test.pdb
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\bin\Debug\PAYEManagement.dll
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\bin\Debug\PAYEManagement.pdb
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\obj\Debug\Test.EmployeeForm.resources
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\obj\Debug\Test.PAYEForm.resources
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\obj\Debug\Test.TestMainForm.resources
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\obj\Debug\Test.exe
+C:\Users\zhangm67\Desktop\PAYEManagement\Test\obj\Debug\Test.pdb
+C:\Users\Administrator\Desktop\PAYEManagement\Test\bin\Debug\Test.exe.config
+C:\Users\Administrator\Desktop\PAYEManagement\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Desktop\PAYEManagement\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Desktop\PAYEManagement\Test\bin\Debug\PAYEManagement.dll
+C:\Users\Administrator\Desktop\PAYEManagement\Test\bin\Debug\PAYEManagement.pdb
+C:\Users\Administrator\Desktop\PAYEManagement\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAYEManagement\Test\obj\Debug\Test.EmployeeForm.resources
+C:\Users\Administrator\Desktop\PAYEManagement\Test\obj\Debug\Test.PAYEForm.resources
+C:\Users\Administrator\Desktop\PAYEManagement\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAYEManagement\Test\obj\Debug\Test.TestMainForm.resources
+C:\Users\Administrator\Desktop\PAYEManagement\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAYEManagement\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAYEManagement\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PAYEManagement\Test\obj\Debug\Test.exe
+C:\Users\Administrator\Desktop\PAYEManagement\Test\obj\Debug\Test.pdb
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\bin\Debug\Test.exe.config
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\bin\Debug\PAYEManagement.dll
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\bin\Debug\PAYEManagement.pdb
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\obj\Debug\Test.EmployeeForm.resources
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\obj\Debug\Test.PAYEForm.resources
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\obj\Debug\Test.TestMainForm.resources
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\obj\Debug\Test.exe
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\Test\obj\Debug\Test.pdb

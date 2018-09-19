@@ -1,0 +1,53 @@
+C:\Users\Administrator\Dropbox\PAYEManagement\PAYEManagement\bin\Debug\PAYEManagement.dll
+C:\Users\Administrator\Dropbox\PAYEManagement\PAYEManagement\bin\Debug\PAYEManagement.pdb
+C:\Users\Administrator\Dropbox\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csprojAssemblyReference.cache
+C:\Users\Administrator\Dropbox\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.ctlEmployee.resources
+C:\Users\Administrator\Dropbox\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.ctlPAYE.resources
+C:\Users\Administrator\Dropbox\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csproj.GenerateResource.cache
+C:\Users\Administrator\Dropbox\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Dropbox\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.dll
+C:\Users\Administrator\Dropbox\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.pdb
+E:\mu\2018-09-05\PAYEManagement\PAYEManagement\bin\Debug\PAYEManagement.dll
+E:\mu\2018-09-05\PAYEManagement\PAYEManagement\bin\Debug\PAYEManagement.pdb
+E:\mu\2018-09-05\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csprojResolveAssemblyReference.cache
+E:\mu\2018-09-05\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.ctlEmployee.resources
+E:\mu\2018-09-05\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.ctlPAYE.resources
+E:\mu\2018-09-05\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csproj.GenerateResource.Cache
+E:\mu\2018-09-05\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.dll
+E:\mu\2018-09-05\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.pdb
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\PAYEManagement\bin\Debug\PAYEManagement.dll
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\PAYEManagement\bin\Debug\PAYEManagement.pdb
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.ctlEmployee.resources
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.ctlPAYE.resources
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.dll
+C:\Users\Administrator\Desktop\PAYEManagement-new\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.pdb
+C:\Users\zhangm67\Desktop\PAYEManagement\PAYEManagement\bin\Debug\PAYEManagement.dll
+C:\Users\zhangm67\Desktop\PAYEManagement\PAYEManagement\bin\Debug\PAYEManagement.pdb
+C:\Users\zhangm67\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csprojResolveAssemblyReference.cache
+C:\Users\zhangm67\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.ctlEmployee.resources
+C:\Users\zhangm67\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.ctlPAYE.resources
+C:\Users\zhangm67\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csproj.GenerateResource.Cache
+C:\Users\zhangm67\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csproj.CoreCompileInputs.cache
+C:\Users\zhangm67\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.dll
+C:\Users\zhangm67\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.pdb
+C:\Users\Administrator\Desktop\PAYEManagement\PAYEManagement\bin\Debug\PAYEManagement.dll
+C:\Users\Administrator\Desktop\PAYEManagement\PAYEManagement\bin\Debug\PAYEManagement.pdb
+C:\Users\Administrator\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.ctlEmployee.resources
+C:\Users\Administrator\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.ctlPAYE.resources
+C:\Users\Administrator\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.dll
+C:\Users\Administrator\Desktop\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.pdb
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\PAYEManagement\bin\Debug\PAYEManagement.dll
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\PAYEManagement\bin\Debug\PAYEManagement.pdb
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csprojAssemblyReference.cache
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.ctlEmployee.resources
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.ctlPAYE.resources
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csproj.GenerateResource.cache
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.dll
+C:\Users\Administrator\Dropbox\C#\Final PAYE\PAYEManagement\PAYEManagement\obj\Debug\PAYEManagement.pdb
